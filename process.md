@@ -52,7 +52,7 @@ accepted into Homebrew.
 
 ## How to propose a change
 * **Check prior proposals**: Many ideas come up frequently and may either be in active discussion on the mailing list or may have been discussed already and have joined the [Commonly Rejected Proposals](commonly_rejected_proposals.md) list. Please check this list for context before proposing something new.
-* **Develop the proposal**: Expand the rough sketch into a complete proposal, using the [proposal template](proposal_template.md).
+* **Develop the proposal**: Expand the rough sketch into a complete proposal, using the [proposal template](0000-proposal_template.md).
 * **Request a review**: Initiate a pull request to the [Homebrew Evolution repository](https://github.com/Homebrew/brew-evolution) to indicate to the maintainers that you would like the proposal to be reviewed.
 * **Address feedback**: In general, and especially during the review period, be responsive to questions and feedback about the proposal.
 
