@@ -1,5 +1,7 @@
 # Install bottles of arbitrary versions
 
+**Status:** Accepted
+
 ## Introduction
 Install bottles without having access to the formula used to create them.
 
