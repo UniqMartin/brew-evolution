@@ -1,4 +1,9 @@
 # $FEATURE_NAME
+*A note about naming the proposal file:* Replace the leading number with the
+number of the most recent accepted proposal (those in `proposals/`) incremented
+by one. Derive the rest of the file name from `$FEATURE_NAME`. Place your
+proposal file next to the already accepted proposals.
+
 ## Introduction
 A short, single-paragraph "elevator pitch" describing what the feature is.
 
